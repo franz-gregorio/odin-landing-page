@@ -1,0 +1,41 @@
+
+.hero-section {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    gap: 20px;
+}
+
+.coffeetime-logo {
+    width: 300px;
+    height: 180px;
+    object-fit: cover;
+}
+
+.hero-text-container {
+    display: inline-block;
+}
+
+.hero-text-header {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero-text-content {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 5px;
+}
+
+.signup-btn {
+    background-color: #3882F6;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    white-space: nowrap;
+    font-weight: 500;
+}
