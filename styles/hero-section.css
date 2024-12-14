@@ -39,3 +39,15 @@
     white-space: nowrap;
     font-weight: 500;
 }
+
+.hero-image {
+    position: relative;
+}
+
+.hero-copyright {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-size: 6px;
+    color: rgb(150,114,89);
+}

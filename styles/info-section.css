@@ -1,0 +1,48 @@
+
+.info-section {
+    background-color: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.info-section-header {
+    color: rgb(99,72,50);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 15px;
+}
+
+.info-card-img {
+    width: 120px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.info-card p {
+    width: 120px;
+    font-size: 10px;
+    text-align: center;
+    color: rgb(99,72,50);
+}
+
+.info-card {
+    position: relative;
+}
+
+.info-copyright {
+    position: absolute;
+    bottom: 45px;
+    right: 5px;
+    font-size: 4px;
+    color: rgb(219,193,172);
+}

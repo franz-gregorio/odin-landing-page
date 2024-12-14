@@ -6,6 +6,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
+    
+    
 }
 
 .header-logo {
@@ -24,7 +26,7 @@
 }
 
 .header-title {
-    color: white;
+    color: rgb(236,224,209);
     font-size: 24px;
     font-weight: bold;
 }
@@ -37,5 +39,5 @@
 
 .header-link {
     font-size: 12px;
-    color: white;
+    color: rgb(236,224,209);
 }
