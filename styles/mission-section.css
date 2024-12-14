@@ -1,0 +1,33 @@
+.mission-section {
+    background-image: url('/images/coffee-qoute-couleur.jpg');
+    position: relative;
+    
+}
+
+.mission-opaque {
+    opacity: 0.8;
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+}
+.mission-header {
+    color:rgb(99,72,50);
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.mission-content {
+    color: rgb(56,34,15);
+    font-size: 26px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.mission-copyright {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    color: rgb(99,72,50);
+    font-size: 8px;
+}
