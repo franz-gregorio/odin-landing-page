@@ -1,7 +1,7 @@
 .mission-section {
     background-image: url('/images/coffee-qoute-couleur.jpg');
     position: relative;
-    
+    scroll-margin-top: 60px;
 }
 
 .mission-opaque {
